@@ -1,0 +1,5 @@
+start cmd /k "chord.exe -a=:3410"
+start cmd /k "chord.exe -a=:3411"
+start cmd /k "chord.exe -a=:3412"
+start cmd /k "chord.exe -a=:3413"
+start cmd /k "chord.exe -a=:3414"
