@@ -13,7 +13,7 @@ I would be happy if someone told me :)
  - Join starts a new ring unless a port number is provided
 5. Open another cmd
 6. Tell it to use another port by typing "port :3411" any number preceded by a colon should work
-7. Type "join :3411" or the port number of any active node
+7. Type "join :3411" or the port number of any active node in the ring
 8. Repeat 5 - 7 until you have 5 or so windows
 9. Start typing commands. It accepts "get [key]", "put [key] [value]", and "delete [key]"
 
@@ -22,7 +22,8 @@ I would be happy if someone told me :)
 1. Launch the app using "chord.exe -a=[:portnumber]" **The colon is required!**
 2. Type "join [:activePortNumber]"
 3. Repeat 1 and 2 a few times with different ports
-4. Run commands
+4. Join the nodes (see step 7 above)
+5. Run commands
 
 You can also just click the batch file I include.
 
