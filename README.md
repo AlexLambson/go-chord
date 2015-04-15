@@ -1,5 +1,5 @@
 # go-chord
-Chord distributed system in GO
+[Chord distributed system](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf) in GO
 
 **Note: that this was built using Windows. I do not know how it works on Linux**  
 I would be happy if someone told me :)
